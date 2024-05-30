@@ -106,7 +106,7 @@ function ListGoals({goals, data}) {
               <SearchIcon size="large" verticalAlign="middle" className="svg" />
             </div>
             <div className="helper">
-              No result found for <b>'{searchTerm}'</b>
+              No result found for <b>'{searchTerm}'.</b>
             </div>
           </EmptyPlaceholder>
         )}
